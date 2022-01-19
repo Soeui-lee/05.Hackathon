@@ -4,6 +4,8 @@ roadapikey.txt
 kakaoapikey.txt
 soil_key.txt
 road_key.txt
+road_key_copy.txt
+soil_type_key.txt
 chromedriver.exe
 # Byte-compiled / optimized / DLL files
 __pycache__/
